@@ -1,7 +1,7 @@
 # IT_fund_skills
 
 ## links
-+ [improve infosec / fundamental IT skills]: (https://www.youtube.com/watch?v=mdsChhW056A)
++ [improve infosec / fundamental IT skills](https://www.youtube.com/watch?v=mdsChhW056A)
 + [nice site with explanations of linux utils][2]
 + [ютуб канал с видео по сетям и линуксу][3]
 + [Курс: Сетевое администрирование: от теории к практике][4]
